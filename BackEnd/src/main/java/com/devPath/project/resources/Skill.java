@@ -4,5 +4,10 @@ public enum Skill {
     JAVA,
     ANGULAR,
     PYTHON,
-    SPRINGBOOT
+    SPRINGBOOT,
+    DOCKER,
+    TENSORFLOW,
+    REACT,
+    JAVASCRIPT,
+    RUST
 }
