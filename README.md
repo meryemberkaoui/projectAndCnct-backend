@@ -25,7 +25,7 @@ Here's what you can do with Project & Cnct:
 
 ## 💭 How can it be improved?
 
-##🚦 Running the Project
+## 🚦 Running the Project
 
-##🍿 Video
+## 🍿 Video
 *Coming soon*
