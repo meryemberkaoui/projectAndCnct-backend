@@ -10,7 +10,7 @@ import com.devPath.project.repository.ProjectRepository;
 import com.devPath.project.resources.Difficulty;
 import com.devPath.project.resources.Skill;
 import com.devPath.project.service.ProjectServiceImpl;
-import com.devPath.user.domain.User;
+import com.devPath.user.model.User;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

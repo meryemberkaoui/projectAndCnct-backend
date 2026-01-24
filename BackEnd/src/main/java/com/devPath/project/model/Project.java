@@ -2,7 +2,7 @@ package com.devPath.project.model;
 
 import com.devPath.project.resources.Difficulty;
 import com.devPath.project.resources.Skill;
-import com.devPath.user.domain.User;
+import com.devPath.user.model.User;
 import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;

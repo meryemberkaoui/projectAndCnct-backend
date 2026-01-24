@@ -9,7 +9,7 @@ import com.devPath.project.model.dto.ProjectResponse;
 import com.devPath.project.repository.ProjectRepository;
 import com.devPath.project.resources.Difficulty;
 import com.devPath.project.resources.Skill;
-import com.devPath.user.domain.User;
+import com.devPath.user.model.User;
 import lombok.*;
 import org.springframework.stereotype.Service;
 

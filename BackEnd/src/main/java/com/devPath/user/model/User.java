@@ -1,4 +1,4 @@
-package com.devPath.user.domain;
+package com.devPath.user.model;
 
 import com.devPath.project.model.Project;
 import com.devPath.user.ressources.Level;
@@ -31,6 +31,8 @@ public class User {
 
     @OneToMany(mappedBy = "owner", cascade = CascadeType.ALL,orphanRemoval = true)
     private List<Project> projects;
+
+
 
     private Level level;
     private String githubUrl;

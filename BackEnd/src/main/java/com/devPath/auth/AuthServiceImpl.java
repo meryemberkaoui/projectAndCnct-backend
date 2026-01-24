@@ -1,6 +1,6 @@
 package com.devPath.auth;
 
-import com.devPath.user.domain.User;
+import com.devPath.user.model.User;
 import com.devPath.user.repository.UserRepository;
 import org.springframework.stereotype.Service;
 

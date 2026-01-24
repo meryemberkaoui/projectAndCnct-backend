@@ -4,7 +4,7 @@ import com.devPath.project.model.Project;
 import com.devPath.project.repository.ProjectRepository;
 import com.devPath.project.resources.Difficulty;
 import com.devPath.project.resources.Skill;
-import com.devPath.user.domain.User;
+import com.devPath.user.model.User;
 import com.devPath.user.repository.UserRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

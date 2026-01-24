@@ -1,6 +1,6 @@
 package com.devPath.auth;
 
-import com.devPath.user.domain.User;
+import com.devPath.user.model.User;
 import java.util.UUID;
 
 public interface AuthService {
